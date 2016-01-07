@@ -1,0 +1,4 @@
+.cities {
+  display: -webkit-flex;
+  -webkit-flex-direction: reverse;
+}

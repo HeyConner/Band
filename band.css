@@ -17,3 +17,17 @@ img {
     resize: width:540px;
     height: auto;
 }
+
+@media screen and (max-width: 800px) {
+  body{
+    background: #FF6347;
+    color: #FFF;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  body{
+    background: red;
+    color: #FFF;
+  }
+}
